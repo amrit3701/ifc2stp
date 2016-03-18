@@ -1,6 +1,6 @@
 # ifc2stp
 
-This program convert the ifc file to stp file. In this program it just remove the ifc prefix from all entites in the IFC file.
+This program converts the IFC file to stp file. In this program, it just removes the ifc prefix from all entities present in the IFC file.
 
 # Commands for execution this program
       $ chmod 755 ifc2stp.sh
